@@ -1,1 +1,6 @@
 this is my file2
+this is second line in purush2 >> purush2.txt
+close
+
+echo this is second line in purush2
+this is my second line in purush2
